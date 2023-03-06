@@ -14,25 +14,6 @@ const imcStyles = StyleSheet.create({
     borderRadius: 8,
     marginBottom: 16,
   },
-
-  resultContainer: {
-    flex: 1, 
-    justifyContent: 'center', 
-    alignItems: 'center',
-  },
-
-  result: {
-    alignItems: 'center'
-  },
-
-  textLarge: {
-    fontSize: 24,
-  },
-
-  textHuge: {
-    fontSize: 128,
-    includeFontPadding: false,
-  },
 })
 
 export default imcStyles
